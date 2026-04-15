@@ -127,12 +127,6 @@ skipgram_model.wv.most_similar(target_word, topn=5)
 
 ---
 
-## 📚 References
-
-- [Mikolov et al. (2013) — Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
-- [Gensim Word2Vec Documentation](https://radimrehurek.com/gensim/models/word2vec.html)
-- [NLTK Stop Words](https://www.nltk.org/book/ch02.html)
-
 ---
 
 *Part of the [Deep Learning](https://github.com/suneetpaul/Deep_learning) repository by [@suneetpaul](https://github.com/suneetpaul)*
